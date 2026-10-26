@@ -1,0 +1,33 @@
+{
+ "label": "easter-150",
+ "total": 20,
+ "workers": 9,
+ "started": "2026-10-13T19:37:24.536Z",
+ "ended": "2026-10-13T20:07:39.795Z",
+ "pid": 28080,
+ "done": [
+  "none_3002",
+  "none_3004",
+  "none_3003",
+  "none_3006",
+  "none_3001",
+  "none_3005",
+  "none_3008",
+  "none_3010",
+  "norms_3001",
+  "none_3009",
+  "none_3007",
+  "norms_3008",
+  "norms_3009",
+  "norms_3003",
+  "norms_3002",
+  "norms_3007",
+  "norms_3004",
+  "norms_3005",
+  "norms_3006",
+  "norms_3010"
+ ],
+ "failed": [],
+ "running": {},
+ "queued": []
+}

@@ -1,0 +1,165 @@
+{
+ "label": "easter-150",
+ "runs": [
+  {
+   "name": "none_3001",
+   "seed": 3001,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3002",
+   "seed": 3002,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3003",
+   "seed": 3003,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3004",
+   "seed": 3004,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3005",
+   "seed": 3005,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3006",
+   "seed": 3006,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3007",
+   "seed": 3007,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3008",
+   "seed": 3008,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3009",
+   "seed": 3009,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "none_3010",
+   "seed": 3010,
+   "gens": 150,
+   "mode": "none",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3001",
+   "seed": 3001,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3002",
+   "seed": 3002,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3003",
+   "seed": 3003,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3004",
+   "seed": 3004,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3005",
+   "seed": 3005,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3006",
+   "seed": 3006,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3007",
+   "seed": 3007,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3008",
+   "seed": 3008,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3009",
+   "seed": 3009,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  },
+  {
+   "name": "norms_3010",
+   "seed": 3010,
+   "gens": 150,
+   "mode": "norms",
+   "geo": "rapanui",
+   "params": {}
+  }
+ ]
+}

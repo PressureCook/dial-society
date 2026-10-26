@@ -1,0 +1,18 @@
+1010 none done 50 gens 0 violations 92s
+808 none done 50 gens 0 violations 99s
+707 none done 50 gens 0 violations 103s
+909 none done 50 gens 0 violations 119s
+1111 none done 50 gens 0 violations 104s
+1414 none done 50 gens 0 violations 117s
+1313 none done 50 gens 0 violations 124s
+1212 none done 50 gens 0 violations 181s
+ALLDONE
+1515 norms done 50 gens 0 violations 157s
+401 norms done 50 gens 0 violations 164s
+1616 norms done 50 gens 0 violations 251s
+606 norms done 50 gens 0 violations 261s
+2323 none done 50 gens 0 violations 174s
+2121 none done 50 gens 0 violations 180s
+2222 none done 50 gens 0 violations 137s
+2424 none done 50 gens 0 violations 152s
+ALLDONE2

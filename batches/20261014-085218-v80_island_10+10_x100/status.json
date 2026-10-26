@@ -1,0 +1,33 @@
+{
+ "label": "v80 island 10+10 x100",
+ "total": 20,
+ "workers": 9,
+ "started": "2026-10-14T08:52:19.082Z",
+ "ended": "2026-10-14T19:56:31.562Z",
+ "pid": 39207,
+ "done": [
+  "none_8004",
+  "none_8002",
+  "none_8005",
+  "none_8000",
+  "none_8001",
+  "none_8003",
+  "none_8007",
+  "none_8008",
+  "none_8006",
+  "none_8009",
+  "norms_8001",
+  "norms_8002",
+  "norms_8003",
+  "norms_8000",
+  "norms_8004",
+  "norms_8005",
+  "norms_8006",
+  "norms_8007",
+  "norms_8008",
+  "norms_8009"
+ ],
+ "failed": [],
+ "running": {},
+ "queued": []
+}
